@@ -7,7 +7,7 @@
 ### Auth User App - Микросервис 
 
 ```.env
-POSTGRES_DOCKER_BUILD='False'
+IN_DOCKER_BUILD='False'
 POSTGRES_HOST_DOCKER=pgbase
 POSTGRES_HOST_LOCAL=localhost
 POSTGRES_PASSWORD=secret123
